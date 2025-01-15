@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Desktop\\C# Projects\\WeatherSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D287C637-AC0B-4F62-8DC2-F021895A4DD3}|WeatherSimulator\\WeatherSimulator.csproj|c:\\users\\vitor\\desktop\\c# projects\\weathersimulator\\weathersimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D287C637-AC0B-4F62-8DC2-F021895A4DD3}|WeatherSimulator\\WeatherSimulator.csproj|solutionrelative:weathersimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\C# Projects\\WeatherSimulator\\WeatherSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\Desktop\\C# Projects\\WeatherSimulator\\WeatherSimulator\\Program.cs",
+              "RelativeToolTip": "WeatherSimulator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:01:02.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
